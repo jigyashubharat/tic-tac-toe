@@ -21,5 +21,12 @@ A simple, interactive, and responsive Tic Tac Toe game built using **HTML**, **C
 - CSS3 (with blur effects for modern look)
 - Vanilla JavaScript (no frameworks)
 
-Play game here--https://jigyashubharat.github.io/to-do-list/
+## 📁 File Structure
+
+/tic-tac-toe/
+├── index.html # Main HTML file
+├── style.css # Stylesheet
+├── app.js # Game logic
+
+Play Game here-- https://jigyashubharat.github.io/tic-tac-toe/
 
